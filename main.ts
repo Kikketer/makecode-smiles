@@ -1,5 +1,3 @@
-story.setPagePauseLength(5000, 5000)
-story.printText("This is a test of a really long piece of text that will likely wrap around in the screen.", 80, 60, 1, 15, story.TextSpeed.Normal)
 scene.setBackgroundColor(11)
-let textSprite = textsprite.create("And this is more text")
+let textSprite = textsprite.create("This is version 2")
 textSprite.setPosition(80, 60)
